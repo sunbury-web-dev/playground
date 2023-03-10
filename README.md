@@ -9,4 +9,6 @@ To access the Linux terminal, we'll follow the same steps we did in class:
 
 Here's a video of the process:
 
+http://dropshare-assets.s3.amazonaws.com/Screen-Recording-2023-03-10-09-32-22.mp4
+
 This should open up a new Codespace with a terminal that you can then use to follow along with the homework assignments throughout the class.
