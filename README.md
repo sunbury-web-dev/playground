@@ -5,8 +5,8 @@ This is a repository meant for practicing on the commandline. Since most folks a
 To access the Linux terminal, we'll follow the same steps we did in class:
 
 * Click on the green `Code` button on the GitHub repository page.
-![green code button](/assets/green_code_button.png)
 * Goto the `Codespaces` tab and click on `Create codespace on main`
-![new codespace](/assets/new_codespace.png)
+
+Here's a video of the process:
 
 This should open up a new Codespace with a terminal that you can then use to follow along with the homework assignments throughout the class.
